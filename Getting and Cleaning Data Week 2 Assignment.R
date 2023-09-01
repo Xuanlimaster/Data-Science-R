@@ -1,6 +1,7 @@
 library(httr)
 library(RSQLite)
 library(sqldf)
+
 #Q1. 
 # Register an application with the Github API here https://github.com/settings/applications. Access the API to 
 # get information on your instructors repositories (hint: this is the url you want "https://api.github.com/users/jtleek/repos").
